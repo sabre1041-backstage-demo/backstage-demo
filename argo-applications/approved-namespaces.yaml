@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/raf-backstage-demo/approved-namespaces.git
+    repoURL: https://github.com/sabre1041-backstage-demo/approved-namespaces.git
     targetRevision: HEAD
     path: "."
     directory:

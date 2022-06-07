@@ -66,7 +66,7 @@ spec:
             path: kubernetes
             role: policy-admin
           path: quay
-          namespaceName: raf-backstage-demo
+          namespaceName: sabre1041-backstage-demo
           defaultPermission: read            
     - objectTemplate: |
         apiVersion: redhatcop.redhat.io/v1alpha1
@@ -115,7 +115,7 @@ spec:
             path: kubernetes
             role: policy-admin
           path: quay
-          namespaceName: raf-backstage-demo
+          namespaceName: sabre1041-backstage-demo
           namespaceType: organization
           defaultPermission: write
           createRepositories: true  
